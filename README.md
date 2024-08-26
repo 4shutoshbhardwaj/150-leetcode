@@ -12,3 +12,4 @@ Here are the problems I've solved so far:
 - Best Time to Buy and Sell Stock II
 - Jump Game
 - Jump Game II
+- H-Index
