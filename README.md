@@ -15,3 +15,4 @@ Here are the problems I've solved so far:
 - H-Index
 - Product of Array Except Self
 - Gas Station
+- Candy
