@@ -16,3 +16,4 @@ Here are the problems I've solved so far:
 - Product of Array Except Self
 - Gas Station
 - Candy
+- Trapping Rain Water
