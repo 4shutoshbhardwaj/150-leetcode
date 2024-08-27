@@ -17,3 +17,4 @@ Here are the problems I've solved so far:
 - Gas Station
 - Candy
 - Trapping Rain Water
+- Roman to Integer
