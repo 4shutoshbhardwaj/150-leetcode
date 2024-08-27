@@ -18,3 +18,4 @@ Here are the problems I've solved so far:
 - Candy
 - Trapping Rain Water
 - Roman to Integer
+- Integer to Roman
