@@ -22,3 +22,4 @@ Here are the problems I've solved so far:
 - Length of Last Word
 - Longest Common Prefix
 - Reverse Words in a String
+- Zigzag Conversion
