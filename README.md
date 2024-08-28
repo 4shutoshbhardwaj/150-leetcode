@@ -24,3 +24,4 @@ Here are the problems I've solved so far:
 - Reverse Words in a String
 - Zigzag Conversion
 - Find the Index of the First Occurrence in a String
+- Text Justification
