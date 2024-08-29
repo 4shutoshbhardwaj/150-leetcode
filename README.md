@@ -25,3 +25,4 @@ Here are the problems I've solved so far:
 - Zigzag Conversion
 - Find the Index of the First Occurrence in a String
 - Text Justification
+- Valid Palindrome
